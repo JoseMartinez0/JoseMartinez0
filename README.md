@@ -40,6 +40,6 @@ En mi trayectoria como programador, aspiro a seguir creciendo profesionalmente, 
 
 Juntos podemos realizar un gran proyecto que cambie vidas.
 
-[LinkedIN](www.linkedin.com/in/josé-ignacio-martínez)
+[LinkedIn](www.linkedin.com/in/josé-ignacio-martínez)
 
 Correo: joseignacio2534@gmail.com

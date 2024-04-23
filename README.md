@@ -4,7 +4,7 @@
 
 ## ¿Quién soy?
 
-Soy un apasionado **programador Full Stack**, con especialización en el desarrollo **backend**. Mi viaje en este mundo comenzó hace aproximadamente un año, donde me sumergí en el fascinante universo del desarrollo de software. En constante búsqueda de superación y crecimiento, me encuentro en un proceso de desarrollo personal y profesional, explorando nuevas tecnologías y mejorando mis habilidades día a día.
+Soy un apasionado **programador Full Stack**, orientado al desarrollo **backend**. Mi viaje en este mundo comenzó hace aproximadamente un año, donde me sumergí en el fascinante universo del desarrollo de software. En constante búsqueda de superación y crecimiento, me encuentro en un proceso de desarrollo personal y profesional, explorando nuevas tecnologías y mejorando mis habilidades día a día.
 
 
 
